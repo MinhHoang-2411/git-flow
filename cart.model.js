@@ -1,1 +1,1 @@
-console.log("cart model");
+console.log(" updated cart model");
